@@ -1,7 +1,7 @@
 {
-  "private": true,
+  "private": false,
   "name": "personalPortfolio",
-  "homepage": "http://Samplayz2007.github.io/PortfolioV2",
+  "homepage": "http://Samplayz2007.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
